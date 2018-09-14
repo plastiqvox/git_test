@@ -1,0 +1,1 @@
+/home/junehyeok/BSM_API/bin/bsm_test

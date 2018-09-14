@@ -1,0 +1,1 @@
+gcc   -static CMakeFiles/bsm_test.dir/main.c.o CMakeFiles/bsm_test.dir/src/BSM_API.c.o CMakeFiles/bsm_test.dir/src/test.c.o  -o bsm_test 
