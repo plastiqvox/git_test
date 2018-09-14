@@ -31,8 +31,6 @@ int main(int argc, char* argv[])
 		printf("please input test count.\r\n");
 		return 0;
 	}
-
-	printf("Hello\r\n");
 	
 	pInputDataTable 	= (DTRB_DATA *)malloc(sizeof(DTRB_DATA) * uw_DataCnt);
 	pOutputDataTable	= (DTRB_DATA *)malloc(sizeof(DTRB_DATA) * uw_DataCnt);
